@@ -1,0 +1,34 @@
+/* Universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* above 3 are must in every webpage*/
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 25px;
+}
+
+/*element selector*/
+h1{
+    color:blue;
+}
+
+/* class selector */
+.class{
+    color: blueviolet;
+}
+
+/* id  selector */
+#id{
+    color: brown;
+}
+
+/* attribute selector */
+
+input[type="text"]{
+    background-color: black;
+}
+a{
+    color: cadetblue;
+}
