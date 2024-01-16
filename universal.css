@@ -6,17 +6,17 @@
     /* above 3 are must in every webpage*/
     font-size: 16px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    line-height: 25px;
 }
 
 /*element selector*/
-h1{
+h1 span{
     color:blue;
 }
 
 /* class selector */
 .class{
     color: blueviolet;
+    font-size: 50px;   
 }
 
 /* id  selector */
@@ -29,6 +29,7 @@ h1{
 input[type="text"]{
     background-color: black;
 }
-a{
+a[href="https://www.marvel.com/movies"]{
     color: cadetblue;
+    font-size: 25px;
 }

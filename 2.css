@@ -1,3 +1,3 @@
-h1{
-    color: green ; /*!important tag describes importance in external css so tha it can override internal css*/
+p{
+    color: green  !important; /*!important tag describes importance in external css so tha it can override internal css*/
 }
