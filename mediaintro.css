@@ -1,0 +1,14 @@
+section{
+    width: 80 vw;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 10px auto;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+}
+@media screen and (max width); 561px {
+    
+    
+}
